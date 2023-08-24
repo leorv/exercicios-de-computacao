@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\bin\Debug\net6.0\05 - calcular valores de duas pecas.exe
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\bin\Debug\net6.0\05 - calcular valores de duas pecas.deps.json
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\bin\Debug\net6.0\05 - calcular valores de duas pecas.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\bin\Debug\net6.0\05 - calcular valores de duas pecas.dll
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\bin\Debug\net6.0\05 - calcular valores de duas pecas.pdb
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.dll
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\refint\05 - calcular valores de duas pecas.dll
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.pdb
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\05 - calcular valores de duas pecas.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\03 - recapitulando lógica de programação\05 - calcular valores de duas pecas\obj\Debug\net6.0\ref\05 - calcular valores de duas pecas.dll
