@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\bin\Debug\net6.0\17 - preferencia de combustivel while.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\bin\Debug\net6.0\17 - preferencia de combustivel while.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\bin\Debug\net6.0\17 - preferencia de combustivel while.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\bin\Debug\net6.0\17 - preferencia de combustivel while.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\bin\Debug\net6.0\17 - preferencia de combustivel while.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\refint\17 - preferencia de combustivel while.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\17 - preferencia de combustivel while.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\17 - preferencia de combustivel while\obj\Debug\net6.0\ref\17 - preferencia de combustivel while.dll

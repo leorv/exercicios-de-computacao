@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\bin\Debug\net6.0\23 - todos os divisores de N.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\bin\Debug\net6.0\23 - todos os divisores de N.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\bin\Debug\net6.0\23 - todos os divisores de N.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\bin\Debug\net6.0\23 - todos os divisores de N.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\bin\Debug\net6.0\23 - todos os divisores de N.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\refint\23 - todos os divisores de N.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\23 - todos os divisores de N.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\23 - todos os divisores de N\obj\Debug\net6.0\ref\23 - todos os divisores de N.dll

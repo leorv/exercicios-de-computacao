@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\bin\Debug\net6.0\21 - pares de numeros e divisao.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\bin\Debug\net6.0\21 - pares de numeros e divisao.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\bin\Debug\net6.0\21 - pares de numeros e divisao.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\bin\Debug\net6.0\21 - pares de numeros e divisao.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\bin\Debug\net6.0\21 - pares de numeros e divisao.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\refint\21 - pares de numeros e divisao.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\21 - pares de numeros e divisao.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\21 - pares de numeros e divisao\obj\Debug\net6.0\ref\21 - pares de numeros e divisao.dll

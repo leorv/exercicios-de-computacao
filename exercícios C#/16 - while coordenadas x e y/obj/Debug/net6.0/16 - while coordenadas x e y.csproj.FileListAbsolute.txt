@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\bin\Debug\net6.0\16 - while coordenadas x e y.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\bin\Debug\net6.0\16 - while coordenadas x e y.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\bin\Debug\net6.0\16 - while coordenadas x e y.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\bin\Debug\net6.0\16 - while coordenadas x e y.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\bin\Debug\net6.0\16 - while coordenadas x e y.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\refint\16 - while coordenadas x e y.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\16 - while coordenadas x e y.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\16 - while coordenadas x e y\obj\Debug\net6.0\ref\16 - while coordenadas x e y.dll

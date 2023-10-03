@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\bin\Debug\net6.0\18 - numeros impares ate o numeral tal.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\bin\Debug\net6.0\18 - numeros impares ate o numeral tal.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\bin\Debug\net6.0\18 - numeros impares ate o numeral tal.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\bin\Debug\net6.0\18 - numeros impares ate o numeral tal.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\bin\Debug\net6.0\18 - numeros impares ate o numeral tal.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\refint\18 - numeros impares ate o numeral tal.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\18 - numeros impares ate o numeral tal.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\18 - numeros impares ate o numeral tal\obj\Debug\net6.0\ref\18 - numeros impares ate o numeral tal.dll

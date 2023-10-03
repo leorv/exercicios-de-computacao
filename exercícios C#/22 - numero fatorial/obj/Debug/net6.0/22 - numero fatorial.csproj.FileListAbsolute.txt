@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\bin\Debug\net6.0\22 - numero fatorial.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\bin\Debug\net6.0\22 - numero fatorial.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\bin\Debug\net6.0\22 - numero fatorial.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\bin\Debug\net6.0\22 - numero fatorial.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\bin\Debug\net6.0\22 - numero fatorial.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\refint\22 - numero fatorial.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\22 - numero fatorial.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\22 - numero fatorial\obj\Debug\net6.0\ref\22 - numero fatorial.dll

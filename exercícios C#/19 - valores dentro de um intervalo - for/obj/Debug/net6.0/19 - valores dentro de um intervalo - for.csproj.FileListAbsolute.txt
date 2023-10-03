@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\bin\Debug\net6.0\19 - valores dentro de um intervalo - for.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\bin\Debug\net6.0\19 - valores dentro de um intervalo - for.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\bin\Debug\net6.0\19 - valores dentro de um intervalo - for.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\bin\Debug\net6.0\19 - valores dentro de um intervalo - for.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\bin\Debug\net6.0\19 - valores dentro de um intervalo - for.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\refint\19 - valores dentro de um intervalo - for.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\19 - valores dentro de um intervalo - for.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\19 - valores dentro de um intervalo - for\obj\Debug\net6.0\ref\19 - valores dentro de um intervalo - for.dll

@@ -1,0 +1,14 @@
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\bin\Debug\net6.0\20 - media ponderada.exe
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\bin\Debug\net6.0\20 - media ponderada.deps.json
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\bin\Debug\net6.0\20 - media ponderada.runtimeconfig.json
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\bin\Debug\net6.0\20 - media ponderada.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\bin\Debug\net6.0\20 - media ponderada.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.AssemblyInfoInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.AssemblyInfo.cs
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\refint\20 - media ponderada.dll
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.pdb
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\20 - media ponderada.genruntimeconfig.cache
+C:\Users\leona\source\nelio-c#\exercícios C#\20 - media ponderada\obj\Debug\net6.0\ref\20 - media ponderada.dll
